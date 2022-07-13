@@ -1,0 +1,12 @@
+--2020-03-27 16:44:30--  https://data.police.uk/api/crimes-street/all-crime?poly=50.905518,-0.273809:50.905518,-0.013824:50.779687,-0.013824:50.779687,-0.273809
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving data.police.uk (data.police.uk)... 34.240.110.252, 52.208.237.114
+Connecting to data.police.uk (data.police.uk)|34.240.110.252|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Saving to: 'all-crime?poly=50.905518,-0.273809:50.905518,-0.013824:50.779687,-0.013824:50.779687,-0.273809'
+
+            all-crime?po     [<=>                                ]       0  --.-KB/s                          all-crime?pol     [ <=>                               ] 215.43K  1.00MB/s                         all-crime?poly     [  <=>                              ] 447.52K  1.02MB/s                        all-crime?poly=     [   <=>                             ] 663.37K  1.01MB/s                       all-crime?poly=5     [    <=>                            ] 863.47K  1008KB/s                      all-crime?poly=50     [     <=>                           ]   1.03M   994KB/s               all-crime?poly=50.905518     [      <=>                          ]   1.09M  1003KB/s    in 1.1s    
+
+2020-03-27 16:44:34 (1003 KB/s) - 'all-crime?poly=50.905518,-0.273809:50.905518,-0.013824:50.779687,-0.013824:50.779687,-0.273809' saved [1147665]
+
